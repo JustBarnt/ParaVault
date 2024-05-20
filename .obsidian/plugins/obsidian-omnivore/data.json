@@ -1,0 +1,32 @@
+{
+  "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
+  "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
+  "apiKey": "",
+  "filter": "ALL",
+  "syncAt": "",
+  "customQuery": "",
+  "template": "# {{{title}}}\n\n#Omnivore\n\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n\n{{#note}}\n## Notes\n\n{{{note}}}\n{{/note}}\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}\n## Webpage\n\n{{{content}}}",
+  "highlightOrder": "LOCATION",
+  "syncing": false,
+  "folder": "_Sources",
+  "folderDateFormat": "yyyy-MM-dd",
+  "endpoint": "https://api-prod.omnivore.app/api/graphql",
+  "filename": "{{{title}}}",
+  "filenameDateFormat": "yyyy-MM-dd",
+  "attachmentFolder": "_Sources/attachments",
+  "version": "1.8.1",
+  "isSingleFile": false,
+  "frequency": 5,
+  "intervalId": 7,
+  "frontMatterVariables": [
+    "title",
+    "author",
+    "tags",
+    "state",
+    "date_published",
+    "date_saved",
+    "date_read",
+    "date_archived"
+  ],
+  "frontMatterTemplate": "id: {{{id}}}\ntitle: >\n  {{{title}}}\n{{#author}}\nauthor: >\n  {{{author}}}\n{{/author}}\n{{#labels.length}}\ntags:\n{{#labels}} - {{{name}}}\n{{/labels}}\n{{/labels.length}}\nstate: {{{state}}}\ndate_published: {{{datePublished}}}\ndate_saved: {{{dateSaved}}}\ndate_read: {{{dateRead}}}\ndate_archived: {{#formatDate}}{{{dateArchived}}},\"yyyy-MM-dd HH:mm:ss\"{{/formatDate}}"
+}

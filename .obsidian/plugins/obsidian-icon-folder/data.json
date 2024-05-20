@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🌐",
+      "📝",
+      "💻",
+      "©",
+      "🗃"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "native",
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "0-Inbox": "📥",
+  "_Sources": "📚",
+  "_Media": "📎",
+  "-Daily-Notes": "📆",
+  "-Periodic-Notes": "📅",
+  "1-Projects": "✅",
+  "3-Resources": "📁",
+  "4-Archives": "🗃",
+  "5-Templates": "©",
+  "_Scripts": "💻",
+  "2-Areas": "🔲",
+  "0-Fleeting-Notes": "📝",
+  "_Canvas": "🌐"
+}

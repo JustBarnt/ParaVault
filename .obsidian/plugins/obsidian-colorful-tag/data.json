@@ -1,0 +1,237 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {
+        "suffix": "🔆"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 15
+      },
+      "name_": "today"
+    },
+    {
+      "attributes": {
+        "suffix": "🏃"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 0
+      },
+      "name_": "next"
+    },
+    {
+      "attributes": {
+        "suffix": "💤"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 1
+      },
+      "name_": "waiting"
+    },
+    {
+      "attributes": {
+        "suffix": "👷‍♂️"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 2
+      },
+      "name_": "delegated"
+    },
+    {
+      "attributes": {
+        "suffix": "🎯"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 3
+      },
+      "name_": "goals"
+    },
+    {
+      "attributes": {
+        "suffix": "🎮"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 4
+      },
+      "name_": "game"
+    },
+    {
+      "attributes": {
+        "suffix": "🎌"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 5
+      },
+      "name_": "manga"
+    },
+    {
+      "attributes": {
+        "suffix": "🔥"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 6
+      },
+      "name_": "focus"
+    },
+    {
+      "attributes": {
+        "suffix": "🍿"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 7
+      },
+      "name_": "movie"
+    },
+    {
+      "attributes": {
+        "suffix": "🛋️"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 8
+      },
+      "name_": "show"
+    },
+    {
+      "attributes": {
+        "suffix": "🎨"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 9
+      },
+      "name_": "drawing"
+    },
+    {
+      "attributes": {
+        "suffix": "🎼"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 10
+      },
+      "name_": "music"
+    },
+    {
+      "attributes": {
+        "suffix": "🏗️"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 11
+      },
+      "name_": "ongoing"
+    },
+    {
+      "attributes": {
+        "suffix": "🛠️"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 12
+      },
+      "name_": "DIY"
+    },
+    {
+      "attributes": {
+        "suffix": "📖"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 13
+      },
+      "name_": "book"
+    },
+    {
+      "attributes": {
+        "suffix": "👨‍💻"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 14
+      },
+      "name_": "dev"
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {},
+    "opened": false,
+    "enableList_": {}
+  },
+  "UseTagDetail": false,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {},
+  "MetaFileTagDetails": {}
+}
