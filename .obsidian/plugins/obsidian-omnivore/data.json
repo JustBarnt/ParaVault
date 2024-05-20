@@ -1,7 +1,7 @@
 {
   "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
-  "apiKey": "",
+  "apiKey": "0e0ca305-2581-45a4-93eb-70f4cf4b73c6",
   "filter": "ALL",
   "syncAt": "",
   "customQuery": "",
@@ -17,7 +17,7 @@
   "version": "1.8.1",
   "isSingleFile": false,
   "frequency": 5,
-  "intervalId": 7,
+  "intervalId": 78,
   "frontMatterVariables": [
     "title",
     "author",

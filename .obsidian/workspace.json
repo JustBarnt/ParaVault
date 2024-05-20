@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "edb25e586b9859ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "febd0f5a3ba33247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89db0c4748bf42e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal 2024 📔.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f58043be7067f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c25b868f1e112c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f39db4c8c7a7b27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a2cfb8a817e1944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22bc85420acdb151",
+    "type": "split",
+    "children": [
+      {
+        "id": "644005673ae206dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2549570145556895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal 2024 📔.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cccdde9e51ad1510",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal 2024 📔.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6b667a0e56bbf4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd2a701d07c27875",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8e6c0c73990838aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal 2024 📔.md"
+              }
+            }
+          },
+          {
+            "id": "71d4214dcad9f668",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "obsidian-omnivore:Omnivore": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Import from Todoist": false,
+      "cmdr:Create Something": false
+    }
+  },
+  "active": "89db0c4748bf42e0",
+  "lastOpenFiles": [
+    "README.md",
+    "Journal 2024 📔.md",
+    "Someday Maybe 💭.md",
+    "Passions Backlog 🎮.md"
+  ]
+}
